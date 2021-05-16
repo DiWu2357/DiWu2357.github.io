@@ -1,12 +1,27 @@
 ---
 layout: page
 title: About me
+subtitle: Resume
 ---
 
 
 
-What else do you need?
+### Education
 
-### My story
+The Hong Kong Polytechnic University, 2016 - 2020
+BBA in Accounting and Finance
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Cornell University, 2020 - 2021
+Meng in Financial Engineering
+
+### Work Experience
+
+The Hong Kong Polytechnic University, 2017
+Research Assistant
+
+Invesco, 2021
+Quantitative Strategy, Intern
+
+### Skills
+
+Python, C++, R
