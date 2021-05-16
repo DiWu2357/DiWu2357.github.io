@@ -12,7 +12,7 @@ The Hong Kong Polytechnic University, 2016 - 2020
 
 BBA in Accounting and Finance
 
-&nbsp
+<br/>
 
 Cornell University, 2020 - 2021
 
@@ -26,7 +26,7 @@ The Hong Kong Polytechnic University, 2017
 
 Research Assistant
 
-&nbsp
+<br/>
 
 Invesco, 2021
 
