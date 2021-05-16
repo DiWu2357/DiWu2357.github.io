@@ -8,7 +8,7 @@ subtitle: Resume
 
 ### Education
 
-
+#
 
 ##### The Hong Kong Polytechnic University, 2016 - 2020
 
@@ -22,7 +22,7 @@ Meng in Financial Engineering
 
 ### Work Experience
 
-
+#
 
 ##### The Hong Kong Polytechnic University, 2017
 
