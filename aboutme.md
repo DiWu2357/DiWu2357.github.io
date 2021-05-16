@@ -10,12 +10,12 @@ subtitle: Resume
 
 #
 
-##### The Hong Kong Polytechnic University, 2016 - 2020
+The Hong Kong Polytechnic University, 2016 - 2020
 
 BBA in Accounting and Finance
 
 
-##### Cornell University, 2020 - 2021
+Cornell University, 2020 - 2021
 
 Meng in Financial Engineering
 
@@ -24,12 +24,12 @@ Meng in Financial Engineering
 
 #
 
-##### The Hong Kong Polytechnic University, 2017
+The Hong Kong Polytechnic University, 2017
 
 Research Assistant
 
 
-##### Invesco, 2021
+Invesco, 2021
 
 Quantitative Strategy, Intern
 
