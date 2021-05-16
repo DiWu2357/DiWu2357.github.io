@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Resume
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Education
 
-What else do you need?
+#### The Hong Kong Polytechnic University, 2016 – 2020
+BBA in Accounting and Finance
 
-### My story
+#### Cornell University, 2020 - 2021
+Meng in Financial Engineering
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Work experience
+
+#### Research Assistant, The Hong Kong Polytechnic University, 2017
+
+#### Quantitative Strategy, Intern, Invesco, 2021
+
+### Skills
+C++, Python, R
