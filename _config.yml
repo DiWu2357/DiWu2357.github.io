@@ -15,7 +15,7 @@ author: Di
 
 navbar-links:
   About Me: "aboutme"
-  Research Interests: "research_interests"
+  Research Interests: "researchinterests"
   Author's home: "https://DiWu2357.github.io"
 
 # --- Logo --- #
@@ -94,7 +94,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#87CEFA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
