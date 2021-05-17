@@ -16,7 +16,7 @@ author: Di
 navbar-links:
   About Me: "aboutme"
   Research Interests: "researchinterests"
-  Projects: "projects"
+  #Projects: "projects"
   Author's home: "https://DiWu2357.github.io"
 
 # --- Logo --- #
