@@ -33,6 +33,7 @@ Invesco, 2021
 Quantitative Strategy, Intern
 
 
+
 ### Skills
 
 Python, C++, R
