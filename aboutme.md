@@ -18,6 +18,7 @@ Cornell University, 2020 - 2021
 
 Meng in Financial Engineering
 
+<br/>
 
 ### Work Experience
 
@@ -32,7 +33,7 @@ Invesco, 2021
 
 Quantitative Strategy, Intern
 
-
+<br/>
 
 ### Skills
 
