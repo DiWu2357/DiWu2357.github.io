@@ -14,9 +14,9 @@ author: Di
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Research Interests: "researchinterests"
-  Projects: "projects"
+  #About Me: "aboutme"
+  #Research Interests: "researchinterests"
+  #Projects: "projects"
   Author's home: "https://DiWu2357.github.io"
 
 # --- Logo --- #
